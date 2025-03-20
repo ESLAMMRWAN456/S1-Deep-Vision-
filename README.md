@@ -1,5 +1,5 @@
 # S1-Deep-Vision-
-# 📊 Time Wasters on Social Media - Data Analysis Project
+#  Time Wasters on Social Media - Data Analysis Project
 
  Overview
 This project aims to analyze the impact of social media usage on time management and productivity. By leveraging data analysis techniques, we will uncover insights into user behavior, identify trends, and assess the correlation between excessive social media usage and its effects on daily activities.
@@ -11,7 +11,7 @@ This project aims to analyze the impact of social media usage on time management
 - **Apply Data Cleaning & Transformation**: Ensure high-quality, structured data for analysis.
 - **Explore Predictive Modeling**: Predict usage patterns based on demographics and behavioral data.
 
-## 📁 Dataset Overview
+##  Dataset Overview
 - **Source**: [TIME-WASTERS ON SOCIAL MEDIA (1)/Kaggle]
 - **File Type**: Excel (`.xlsx`)
 - **Number of Records**: ~[1000] entries
@@ -23,17 +23,17 @@ This project aims to analyze the impact of social media usage on time management
   -  **Daily Tasks Completion**: Percentage of tasks completed.
   -  **Distraction Score**: Subjective rating of social media distraction.
 
-## 🛠 Technologies & Tools
+##  Technologies & Tools
 | Function | Tools |
 |----------|-------------------------|
-| 📊 **Data Visualization** | Power BI, Tableau, Matplotlib, Seaborn |
-| 🧹 **Data Cleaning** | Pandas, NumPy, OpenRefine |
-| 🔍 **Exploratory Data Analysis (EDA)** | Python, Pandas, Jupyter Notebook |
-| 📈 **Statistical Analysis** | SciPy, Statsmodels |
-| 🤖 **Predictive Modeling** | Scikit-learn, TensorFlow |
-| 🗄 **Database & Storage** | SQL, Google Sheets |
+|  **Data Visualization** | Power BI, Tableau, Matplotlib, Seaborn |
+|  **Data Cleaning** | Pandas, NumPy, OpenRefine |
+|  **Exploratory Data Analysis (EDA)** | Python, Pandas, Jupyter Notebook |
+| **Statistical Analysis** | SciPy, Statsmodels |
+|  **Predictive Modeling** | Scikit-learn, TensorFlow |
+| **Database & Storage** | SQL, Google Sheets |
 
-## 🔬 Methodology
+## Methodology
 1. **Data Cleaning & Preparation**
    - Handle missing values and duplicates.
    - Normalize and structure data fields.
@@ -55,7 +55,7 @@ This project aims to analyze the impact of social media usage on time management
 -  **Completion Rate of Daily Tasks**
 - **Prediction Accuracy of Excessive Usage Models**
 
-## 📅 Project Timeline
+##  Project Timeline
 | Phase | Key Activities | Duration |
 |--------|-----------------|----------|
 | 1️⃣ **Data Collection & Cleaning** | Organizing and preprocessing data | week (1) |
@@ -64,7 +64,7 @@ This project aims to analyze the impact of social media usage on time management
 | 4️⃣ **Visualization & Reporting** | Creating dashboards and insights | week (4) |
 
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 -  **Real-time Tracking of Social Media Usage**
 -  AI-Powered Productivity Recommendations
  I-Powered Productivity Recommendations
