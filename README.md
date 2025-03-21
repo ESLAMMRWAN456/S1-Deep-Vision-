@@ -70,13 +70,19 @@ This project aims to analyze the impact of social media usage on time management
  I-Powered Productivity Recommendations
 -  Advanced Sentiment Analysis on Social Media Posts
 - Comparative Study Across Different Regions & Age Groups
+
+
+
 ##Team
-People          	Roles	                  Date
-Menna Mohamed	Data cleaning & Exploration	21/3/2025
-Aya Fouad	 Analysis Questions	
-Ahmed Daif	Normalization	
-Eslam Mrwan	Visualization & Reporting	
-All team	Power point	
+
+| People        | Roles                        | Date       |
+|--------------|-----------------------------|------------|
+| Menna Mohamed | Data Cleaning & Exploration | 21/3/2025  |
+| Aya Fouad     | Analysis Questions          |            |
+| Ahmed Daif    | Normalization               |            |
+| Eslam Mrwan   | Visualization & Reporting   |            |
+| All Team      | PowerPoint                  |            |
+
 
 
 
