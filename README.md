@@ -1,4 +1,4 @@
-# S1-Deep-Vision-
+# S1-Deep-Vision-Social Media Addiction
 #  Time Wasters on Social Media - Data Analysis Project
 
  Overview
