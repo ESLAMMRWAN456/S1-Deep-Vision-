@@ -30,8 +30,7 @@ This project aims to analyze the impact of social media usage on time management
 |  **Data Cleaning** | Pandas, NumPy, OpenRefine |
 |  **Exploratory Data Analysis (EDA)** | Python, Pandas, Jupyter Notebook |
 | **Statistical Analysis** | SciPy, Statsmodels |
-|  **Predictive Modeling** | Scikit-learn, TensorFlow |
-| **Database & Storage** | SQL, Google Sheets |
+| **Database & Storage** | SQL, Databases|
 
 ## Methodology
 1. **Data Cleaning & Preparation**
@@ -59,8 +58,8 @@ This project aims to analyze the impact of social media usage on time management
 | Phase | Key Activities | Duration |
 |--------|-----------------|----------|
 | 1️⃣ **Data Collection & Cleaning** | Organizing and preprocessing data | week (1) |
-| 2️⃣ **Exploratory Data Analysis** | Identifying patterns and trends | week(2) |
-| 3️⃣ **Predictive Modeling** | Developing and evaluating ML models | week (3) |
+| 2️⃣ **Normalization Data Analysis** | Prepare dataset for accurate and consistant analysis | week(2) |
+| 3️⃣ **Analysis story** | Extract the most important insights | week (3) |
 | 4️⃣ **Visualization & Reporting** | Creating dashboards and insights | week (4) |
 
 
