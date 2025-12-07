@@ -77,8 +77,8 @@ This project aims to analyze the impact of social media usage on time management
 | People        | Roles                        | Date       |
 |--------------|-----------------------------|------------  |
 | Menna Mohamed | Data Cleaning & Exploration | 21/3/2025  |
-| Aya Fouad     | Analysis Questions          | 5/4/2025   |
-| Ahmed Daif    | Normalization               | 1/4/2025   |
+|  Ahmed Daif   |  Normalization              | 28/3/2025   |
+| Aya Fouad     |    Analysis Questions       | 5/4/2025   |
 | Eslam Mrwan   | Visualization & Reporting   | 15/4/2025  |
 | All Team      | PowerPoint                  |  3/5/2025  |
 
